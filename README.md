@@ -5,11 +5,9 @@
 **Pen Power**
 ===
 ## Requirement
-***
 * Dart 3.24.2
 * Flutter 2.2.3
 ## Dependencies
-***
 * [provider](https://pub.dev/packages/provider): ^5.0.0
 * [image_picker](https://pub.dev/packages/image_picker): ^0.8.0
 * [path](https://pub.dev/packages/path): ^1.8.0
@@ -25,5 +23,4 @@
 * [wakelock](https://pub.dev/packages/wakelock): ^0.5.2
 
 ## LICENSE
-***
 Pen Power © 2021 is licensed under the 3-Clause BSD license
