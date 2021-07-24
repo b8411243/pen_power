@@ -1,0 +1,351 @@
+{
+  "@@locale": "en",
+
+  "app_title": "Pen Power",
+  "@app_title": {
+    "description": ""
+  },
+  "app_legalese": "Pen Power (c) 2021 is licensed under the 3-Clause BSD license",
+  "@app_legalese": {
+    "description": ""
+  },
+  "app_author_title": "Author:",
+  "@app_author_title": {
+    "description": ""
+  },
+  "app_author_name": "W. Wu\n",
+  "@app_author_name": {
+    "description": ""
+  },
+  "app_translate_title": "Thanks to the following volunteers for translating this software into English:" ,
+  "@app_translate_title": {
+    "description": ""
+  },
+  "app_translate_name": "W. Wu\n",
+  "@app_translate_name": {
+    "description": ""
+  },
+
+
+
+  "btn_edit": "Edit",
+  "@btn_edit": {
+    "description": ""
+  },
+  "btn_delete": "Delete",
+  "@btn_delete": {
+    "description": ""
+  },
+  "btn_next": "Next",
+  "@btn_next": {
+    "description": ""
+  },
+  "btn_previous": "Previous",
+  "@btn_previous": {
+    "description": ""
+  },
+  "btn_cancel": "Cancel",
+  "@btn_cancel": {
+    "description": ""
+  },
+  "btn_submit": "Submit",
+  "@btn_submit": {
+    "description": ""
+  },
+  "btn_sure": "I'm sure",
+  "@btn_sure": {
+    "description": ""
+  },
+  "btn_move_it": "Move it",
+  "@btn_move_it": {
+    "description": ""
+  },
+  "btn_exit": "Exit",
+  "@btn_exit": {
+    "description": ""
+  },
+  "btn_from_camera": "From camera",
+  "@btn_from_camera": {
+    "description": ""
+  },
+  "btn_from_gallery": "From gallery",
+  "@btn_from_gallery": {
+    "description": ""
+  },
+  "btn_success": "Success",
+  "@btn_success": {
+    "description": ""
+  },
+  "btn_finish": "Finish",
+  "@btn_finish": {
+    "description": ""
+  },
+  "btn_iprs_disagree": "I don't agree (leave this app)",
+  "@btn_iprs_disagree": {
+    "description": ""
+  },
+  "btn_analyze":"Analyze",
+  "@btn_analyze":{
+    "description": ""
+  },
+  "btn_debug":"Debug",
+  "@btn_debug":{
+    "description": ""
+  },
+
+  
+
+
+
+  "input_notebook_title": "Notebook title",
+  "@input_notebook_title": {
+    "description": ""
+  },
+  "input_notebook_desc": "Notebook description",
+  "@input_notebook_desc": {
+    "description": ""
+  },
+  "input_notebook_title_warning": "Notebook title can't be empty",
+  "@input_notebook_title_warning": {
+    "description": ""
+  },
+  "input_note_title": "Note title",
+  "@input_note_title": {
+    "description": ""
+  },
+  "input_note_desc": "Note description",
+  "@input_note_desc": {
+    "description": ""
+  },
+  "input_note_title_warning": "Note title can't be empty",
+  "@input_note_title_warning": {
+    "description": ""
+  },
+  "input_name": "User name",
+  "@input_name": {
+    "description": ""
+  },
+  "input_name_warning": "User name can't be empty",
+  "@input_name_warning": {
+    "description": ""
+  },
+  "input_iprs_title": "Did you agree",
+  "@input_iprs_title": {
+    "description": ""
+  },
+  "input_iprs_hint": "Type \"{target}\" means you agree",
+  "@input_iprs_hint": {
+    "description": "",
+    "placeholders": {
+      "target": {
+        "type": "String"
+      }
+    }
+  },
+  "input_iprs_warning": "Type \"{target}\" means you agree",
+  "@input_iprs_warning": {
+    "description": "",
+    "placeholders": {
+      "target": {
+        "type": "String"
+      }
+    }
+  },
+
+
+
+  "error_image_not_support": "Not supported file type",
+  "@error_image_not_support": {
+    "description": ""
+  },  
+  "error_image_no_selected": "No image selected",
+  "@error_image_no_selected": {
+    "description": ""
+  },
+  "error_mask_sibling_key": "siblingKey.currentContext is null",
+  "@error_mask_sibling_key": {
+    "description": ""
+  },
+  "error_mask_canvas_key": "canvasKey.currentContext is null",
+  "@error_mask_canvas_key": {
+    "description": ""
+  },
+  "error_note_id_not_found": "noteId {noteId} not found",
+  "@error_note_id_not_found": {
+    "description": "",
+    "placeholders": {
+      "noteId": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  
+  },
+
+
+
+
+  "drawer_show_all_note": "Show all notes",
+  "@drawer_show_all_note": {
+    "description": ""
+  },
+  "drawer_tutorial": "Tutorial",
+  "@drawer_tutorial": {
+    "description": ""
+  },
+  "drawer_setting": "Setting",
+  "@drawer_setting": {
+    "description": ""
+  },
+  "drawer_about": "About Pen Power",
+  "@drawer_about": {
+    "description": ""
+  },
+
+  
+
+  "new_bar_input": "Input",
+  "@new_bar_input": {
+    "description": ""
+  },
+  "new_bar_draw": "Draw",
+  "@new_bar_draw": {
+    "description": ""
+  },
+  "new_bar_save": "Save",
+  "@new_bar_save": {
+    "description": ""
+  },
+  "new_title_user": "User",
+  "@new_title_user": {
+    "description": ""
+  },
+  "new_title_notebook": "Notebook",
+  "@new_title_notebook": {
+    "description": ""
+  },
+  "new_title_note": "Note",
+  "@new_title_note": {
+    "description": ""
+  },
+  "new_title_create_time": "Create Time",
+  "@new_title_create_time": {
+    "description": ""
+  },
+  "new_load_error": "Error",
+  "@new_load_error": {
+    "description": ""
+  },
+  "new_load_loading": "Loading...",
+  "@new_load_loading": {
+    "description": ""
+  },
+
+  
+
+  "notebook_page_title": "Notebooks",
+  "@notebook_page_title": {
+    "description": ""
+  },
+  "notebook_edit": "Edit Notebook",
+  "@notebook_edit": {
+    "description": ""
+  },
+  "notebook_delete_title": "Delete this notebook ?",
+  "@notebook_delete_title": {
+    "description": ""
+  },
+  "notebook_delete_content": "This notebook and ALL OF THE NOTE in this notebook will be deleted\n\nThis operation is IRREVERSIBLE\nAre you sure?",
+  "@notebook_delete_content": {
+    "description": ""
+  },
+  "notebook_empty": "This Notebook is empty",
+  "@notebook_empty": {
+    "description": ""
+  },
+
+  
+
+  "note_page_title": "Notes",
+  "@note_page_title": {
+    "description": ""
+  },
+  "note_page_title_all": "All Notes",
+  "@note_page_title_all": {
+    "description": ""
+  },
+  "note_edit": "Edit Note",
+  "@note_edit": {
+    "description": ""
+  },
+  "note_delete_title": "Delete this note ?",
+  "@note_delete_title": {
+    "description": ""
+  },
+  "note_delete_content": "This operation is IRREVERSIBLE\nAre you sure?",
+  "@note_delete_content": {
+    "description": ""
+  },
+  "note_move_to_title": "Move to",
+  "@note_move_to_title": {
+    "description": ""
+  },
+
+  
+
+  "tutorial_capture": "Capture",
+  "@tutorial_capture": {
+    "description": ""
+  },
+  "tutorial_draw": "Draw",
+  "@tutorial_draw": {
+    "description": ""
+  },
+  "tutorial_study": "Study",
+  "@tutorial_study": {
+    "description": ""
+  },
+  "tutorial_done": "Done",
+  "@tutorial_done": {
+    "description": ""
+  },
+  "tutorial_new_user_title": "What's your name ?",
+  "@tutorial_new_user_title": {
+    "description": ""
+  },
+  "tutorial_iprs_title": "*** WARNING ***",
+  "@tutorial_iprs_title": {
+    "description": ""
+  },
+  "tutorial_iprs_content": "You should not infringe the intellectual property rights of others.\nIncluding but not limited to taking photos of the contents of books. ",
+  "@tutorial_iprs_content": {
+    "description": ""
+  },
+  "tutorial_iprs_agree": "I agree",
+  "@tutorial_iprs_agree": {
+    "description": ""
+  },
+
+
+  
+
+  "load_loading": "Reading the database",
+  "@load_loading": {
+    "description": ""
+  },
+  "load_failed": "Failed to read the database",
+  "@load_failed": {
+    "description": ""
+  }, 
+
+
+  
+  "unknow_whoops": "Whoops!",
+  "@unknow_whoops": {
+    "description": ""
+  },
+  "unknow_content": "Something went wrong",
+  "@unknow_content": {
+    "description": ""
+  }
+}

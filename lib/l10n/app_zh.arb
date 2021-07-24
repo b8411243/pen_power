@@ -1,0 +1,109 @@
+{
+  "@@locale": "zh",
+
+  "app_title": "Pen Power",
+  "app_legalese": "Pen Power (c) 2021 is licensed under the 3-Clause BSD license",
+  "app_author_title": "作者：",
+  "app_author_name": "W. Wu\n",
+  "app_translate_title": "感謝以下志願者將本軟體翻譯成中文：" ,
+  "app_translate_name": "W. Wu\n",
+  
+
+
+  "btn_edit": "修改",
+  "btn_delete": "刪除",
+  "btn_next": "下一步",
+  "btn_previous": "上一步",
+  "btn_cancel": "取消",
+  "btn_submit": "送出",
+  "btn_sure": "我確定",
+  "btn_move_it": "移動",
+  "btn_exit": "離開",
+  "btn_from_camera": "從 相機",
+  "btn_from_gallery": "從 相簿",
+  "btn_success": "成功",
+  "btn_finish": "完成",
+  "btn_iprs_disagree": "我不同意(離開App)",
+  "btn_analyze":"分析",
+  "btn_debug":"Debug",
+ 
+
+
+  "input_notebook_title": "筆記本標題",
+  "input_notebook_desc": "筆記本說明",
+  "input_notebook_title_warning": "筆記本標題不得空白",
+  "input_note_title": "筆記標題",
+  "input_note_desc": "筆記說明",
+  "input_note_title_warning": "筆記標題不得空白",
+  "input_name": "使用者名稱",
+  "input_name_warning": "使用者名稱不得空白",
+  "input_iprs_title": "請問您了解嗎？",
+  "input_iprs_hint": "請輸入 \"{target}\"表示您同意",
+  "input_iprs_warning": "請輸入 \"{target}\"表示您同意",
+
+
+
+  "error_image_not_support": "不支援檔案類型",
+  "error_image_no_selected": "沒有影像",
+  "error_mask_sibling_key": "siblingKey.currentContext 是 null",
+  "error_mask_canvas_key": "canvasKey.currentContext 是 null",
+  "error_note_id_not_found": "找不到 noteId {noteId}",
+
+
+
+  "drawer_show_all_note": "顯示所有筆記",
+  "drawer_tutorial": "教學",
+  "drawer_setting": "設定",
+  "drawer_about": "關於 Pen Power",
+
+  
+
+  "new_bar_input": "輸入",
+  "new_bar_draw": "繪製",
+  "new_bar_save": "儲存",
+  "new_title_user": "使用者",
+  "new_title_notebook": "筆記本",
+  "new_title_note": "筆記",
+  "new_title_create_time": "建立時間",
+  "new_load_error": "錯誤",
+  "new_load_loading": "載入中...",
+
+  
+
+  "notebook_page_title": "筆記本",
+  "notebook_edit": "編輯筆記本",
+  "notebook_delete_title": "刪除此筆記本？",
+  "notebook_delete_content": "此筆記本及其中的所有筆記皆會被刪除\n\n此操作為“不可逆”的\n你確定嗎？",
+  "notebook_empty": "此筆記本是空的",
+
+  
+
+  "note_page_title": "筆記",
+  "note_page_title_all": "全部筆記",
+  "note_edit": "編輯筆記",
+  "note_delete_title": "刪除此筆記？",
+  "note_delete_content": "此操作為“不可逆”的\n你確定嗎？",
+  "note_move_to_title": "移至",
+
+  
+
+  "tutorial_capture": "擷取",
+  "tutorial_draw": "繪製",
+  "tutorial_study": "學習",
+  "tutorial_done": "完成",
+  "tutorial_new_user_title": "請問您的名字是？",
+  "tutorial_iprs_title": "*** 警告 ***",
+  "tutorial_iprs_content": "您不應該侵犯他人的智慧財產權\n包含但不限於拍攝書籍內容",
+  "tutorial_iprs_agree": "我同意",
+
+
+
+  "load_loading": "正在讀取資料庫",
+  "load_failed": "讀取資料庫失敗",
+
+
+  
+  "unknow_whoops": "哎呦！",
+  "unknow_content": "有東西出錯啦～"
+
+}
